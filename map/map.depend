@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1543022896 source:d:\codeblocks\map\code1.cpp
+	"map.hpp"
+	<iostream>
+	<cassert>
+	<string>
+
+1542508944 d:\codeblocks\map\map.h
+	<iostream>
+	<functional>
+	<cstddef>
+	"utility.hpp"
+	"exceptions.hpp"
+	<cstdio>
+
+1540133960 d:\codeblocks\map\utility.hpp
+	<utility>
+
+1540133960 d:\codeblocks\map\exceptions.hpp
+	<cstddef>
+	<cstring>
+	<string>
+
+1542518309 source:d:\codeblocks\map\code2.cpp
+	<iostream>
+	<map>
+	<ctime>
+	<queue>
+	<cmath>
+	<vector>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<algorithm>
+	"map.hpp"
+
+1543075281 d:\codeblocks\map\map.hpp
+	<functional>
+	<cstddef>
+	"utility.hpp"
+	"exceptions.hpp"
+	<iostream>
+
+1542891835 source:d:\codeblocks\map\mycode.cpp
+	"map.hpp"
+	<iostream>
+	<cassert>
+	<string>
+
+1542973231 source:d:\codeblocks\map\code5.cpp
+	<iostream>
+	<map>
+	<ctime>
+	<queue>
+	<cmath>
+	<vector>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<algorithm>
+	"map.hpp"
+
+1540133960 source:d:\codeblocks\map\code3.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<cstring>
+	"map.hpp"
+
+1540133960 source:d:\codeblocks\map\code4.cpp
+	<fstream>
+	<cassert>
+	<iostream>
+	<vector>
+	<algorithm>
+	<map>
+	<ctime>
+	"exceptions.hpp"
+	"map.hpp"
+
+1540133960 source:d:\codeblocks\map\code6.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<cstring>
+	"map.hpp"
+
